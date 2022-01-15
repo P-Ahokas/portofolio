@@ -1,0 +1,1 @@
+This was a school project that I made with another classmate. The base of the app was done by me, in Kotlin programming language.

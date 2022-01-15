@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216848827996",
+    "project_id": "viittomat-d66e0",
+    "storage_bucket": "viittomat-d66e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216848827996:android:c3b94d0a1cb6de86ad8899",
+        "android_client_info": {
+          "package_name": "com.example.viittomatulkki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216848827996-5uh4phfmipjidh05b1379t2jjjmkk9gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK9Pd-ReJyG-GOW1hdrJlB-20KpPkN_ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216848827996-5uh4phfmipjidh05b1379t2jjjmkk9gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
